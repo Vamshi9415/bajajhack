@@ -1,7 +1,6 @@
 # main.py
 
 import os
-import uvicorn
 import asyncio
 import json
 from datetime import datetime
